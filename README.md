@@ -10,5 +10,8 @@ The script is run on Python 3.5+
 <h2>Dependancies</h2>
 <ul><li>OpenCV</li><li>Tensorflow GPU for Backend</li></ul>
 
+<h2>Demo</h2>
+<video src="https://github.com/projjal1/Age-Prediction-Caffe/blob/master/output.avi"/>
+
 <h2>Attributions for the implementation</h2>
 PyImageSearch
