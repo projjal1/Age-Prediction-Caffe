@@ -11,7 +11,7 @@ The script is run on Python 3.5+
 <ul><li>OpenCV</li><li>Tensorflow GPU for Backend</li></ul>
 
 <h2>Demo</h2>
-[![Something](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](http://www.youtube.com/watch?v=mvDIlNOVWiA)
+
 
 <h2>Attributions for the implementation</h2>
 PyImageSearch
