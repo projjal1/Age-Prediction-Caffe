@@ -13,7 +13,7 @@ The script is run on Python 3.5+
 <h2>Demo</h2>
 <img src="./result.gif" />
 
-<h3>Note : The model might give age-diff of 2-3 years</h3>
+<h3 style="color:blue;">Note : The model might give age-diff of 2-3 years</h3>
 
 <h2>Attributions for the implementation</h2>
 PyImageSearch
