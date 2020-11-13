@@ -5,7 +5,7 @@ The model will capture faces from webcam video and predict the age of the subjec
 
 <h2>How to run?</h2>
 The script is run on Python 3.5+
-<pre>python scripy.py</pre>
+<pre>python script.py</pre>
 
 <h2>Dependancies</h2>
 <ul><li>OpenCV</li><li>Tensorflow GPU for Backend</li></ul>
